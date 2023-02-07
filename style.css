@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 400vh;
+}
+.video{
+    text-align: center;
+}
+.buttom{
+    text-align: center;
+}
+.modify{
+    border-radius: 20px;
+    width: 350px;
+    height: 100px;
+    top: 60px;
+}
+.detalhes1{
+    width: 90px;
+    height: 90px;
+}
+.footer{
+    background-color: #ccc;
+    padding: 30px 0;
+    color: red;
+}
